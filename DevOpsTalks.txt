@@ -1,0 +1,1 @@
+Bu txt dosyasının oluşturulma amacı dinleyicilere git komutlarını ve git branch stratejilerini aktarmaktır 
