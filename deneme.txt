@@ -1,4 +1,5 @@
 AKDSLKALSDKLSAKDLASKDLKSALDKALSDKAD
 dene dene
 abcdefg
-branch açmak için yapılan değişikliği içerir. 
+branch açmak için yapılan değişikliği içerir.
+devops talks eğitimi için hazırlandı. 
