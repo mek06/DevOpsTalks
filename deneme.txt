@@ -5,4 +5,5 @@ sadsadasdlasdkaskdlasdşsaldşsadklsakldksadasdlsad
 askdlasldkasldaldsaskda
 branch oluşturma için eklenmiştir
 head kavramı için ....
-merge için değişiklikler yapılmıştır 
+merge için değişiklikler yapılmıştır.
+pull & fetch uygulamaları  
