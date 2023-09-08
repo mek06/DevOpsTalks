@@ -11,5 +11,9 @@ pull & fetch uygulamaları
 amend komutu için...   
 =======
 pull & fetch uygulamaları  
+<<<<<<< HEAD
 reset komutlarını anlatmak için eklenmiştir
 mixed reset için eklenmiştir
+=======
+>>>>>>> d993dc4a02c6fee6cd66e109115b249d3c155af9
+>>>>>>> 64a8f50d13377b9960fbd68c34294a3331323553
