@@ -6,5 +6,9 @@ askdlasldkasldaldsaskda
 branch oluşturma için eklenmiştir
 head kavramı için ....
 merge için değişiklikler yapılmıştır.
+<<<<<<< HEAD
 pull & fetch uygulamaları
 amend komutu için...   
+=======
+pull & fetch uygulamaları  
+>>>>>>> d993dc4a02c6fee6cd66e109115b249d3c155af9
