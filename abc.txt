@@ -1,2 +1,3 @@
 reset komutlarını anlatmak amacı ile oluşturulmuş dosyadır
 deneme yapmak amacıyla reset komutunu anlatmak için yazılmıştır.
+8 eylül devopstalks için denemeler yapılmaktadır.
